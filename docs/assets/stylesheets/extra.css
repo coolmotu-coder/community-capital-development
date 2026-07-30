@@ -1,0 +1,111 @@
+/* ==========================================================================
+   Custom CSS — Professional Blue Academic Theme
+   Community Capital Development Project
+   ========================================================================== */
+
+/* --------------------------------------------------- */
+/*  Typography                                          */
+/* --------------------------------------------------- */
+:root {
+  --md-primary-fg-color:        #0D47A1;
+  --md-primary-fg-color--light: #1976D2;
+  --md-primary-fg-color--dark:  #002171;
+  --md-accent-fg-color:         #1565C0;
+  --md-accent-fg-color--transparent: #1565C01A;
+  --md-default-fg-color:        #212121;
+  --md-default-bg-color:        #FAFAFA;
+  --md-typeset-a-color:         #0D47A1;
+  --md-code-bg-color:           #F5F5F5;
+  --md-code-fg-color:           #212121;
+}
+
+/* --------------------------------------------------- */
+/*  Print Styles                                        */
+/* --------------------------------------------------- */
+@media print {
+  .md-header,
+  .md-sidebar--primary,
+  .md-sidebar--secondary,
+  .md-nav,
+  .md-toolbar,
+  .md-footer,
+  .md-top,
+  .md-announce {
+    display: none !important;
+  }
+
+  .md-main {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .md-typeset {
+    font-size: 12pt;
+    line-height: 1.6;
+    color: #000;
+  }
+
+  .md-typeset a::after {
+    content: " (" attr(href) ")";
+    font-size: 0.8em;
+    color: #666;
+  }
+
+  .md-typeset table {
+    page-break-inside: auto;
+  }
+
+  .md-typeset tr {
+    page-break-inside: avoid;
+    page-break-after: auto;
+  }
+}
+
+/* --------------------------------------------------- */
+/*  Status Badges                                       */
+/* --------------------------------------------------- */
+.md-typeset .status-badge {
+  display: inline-block;
+  padding: 0.2em 0.6em;
+  font-size: 0.85em;
+  font-weight: 700;
+  border-radius: 4px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.md-typeset .status-badge--draft {
+  background-color: #FFF3E0;
+  color: #E65100;
+  border: 1px solid #FFE0B2;
+}
+
+.md-typeset .status-badge--proposed {
+  background-color: #E3F2FD;
+  color: #0D47A1;
+  border: 1px solid #BBDEFB;
+}
+
+.md-typeset .status-badge--original {
+  background-color: #E8F5E9;
+  color: #1B5E20;
+  border: 1px solid #C8E6C9;
+}
+
+/* --------------------------------------------------- */
+/*  Content Width                                       */
+/* --------------------------------------------------- */
+@media screen and (min-width: 60em) {
+  .md-main__inner {
+    max-width: none;
+  }
+  .md-sidebar--primary {
+    width: 16rem;
+  }
+}
+
+@media screen and (min-width: 76.25em) {
+  .md-sidebar--secondary {
+    width: 12rem;
+  }
+}

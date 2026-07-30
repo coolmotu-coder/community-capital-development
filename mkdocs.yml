@@ -1,0 +1,194 @@
+site_name: Community Capital Development Project
+site_description: >-
+  A multi-volume research publication examining household capital formations,
+  class structures, and development policy frameworks across diverse
+  socioeconomic contexts by Anil Kumar Srivastava.
+site_author: Anil Kumar Srivastava
+site_url: https://coolmotu-coder.github.io/community-capital-development/
+repo_url: https://github.com/coolmotu-coder/community-capital-development
+repo_name: coolmotu-coder/community-capital-development
+
+edit_uri: edit/main/docs/
+
+strict: false
+
+# --------------------------------------------------------------------------- #
+#  Theme                                                                        #
+# --------------------------------------------------------------------------- #
+theme:
+  name: material
+  language: en
+  palette:
+    primary: teal
+    accent: teal
+  font:
+    text: "Inter"
+    code: "JetBrains Mono"
+  favicon: assets/images/favicon.ico
+  logo: assets/images/logo.png
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - announce.dismiss
+    - content.code.annotate
+    - content.code.copy
+    - content.tooltips
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.sections
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    - toc.integrate
+# --------------------------------------------------------------------------- #
+#  Plugins                                                                      #
+# --------------------------------------------------------------------------- #
+plugins:
+  - search
+  - minify:
+      minify_html: true
+
+# --------------------------------------------------------------------------- #
+#  Markdown Extensions                                                          #
+# --------------------------------------------------------------------------- #
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      toc_depth: 3
+      permalink: false
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      check_paths: false
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# --------------------------------------------------------------------------- #
+#  Extra                                                                        #
+# --------------------------------------------------------------------------- #
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/coolmotu-coder/community-capital-development
+      name: GitHub Repository
+    - icon: fontawesome/solid/envelope
+      link: mailto:contact@communitycapitaldevelopment.org
+      name: Contact
+
+  generator: false
+  copyright: >-
+    Developed by Anil Kumar Srivastava |
+    Community Capital Development Project
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+extra_javascript:
+  - assets/javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+# --------------------------------------------------------------------------- #
+#  Navigation                                                                   #
+# --------------------------------------------------------------------------- #
+nav:
+  - Home: index.md
+  - Project Overview: project-overview.md
+  - Author: author.md
+
+  - "Volume I":
+      - Volume I Overview: volume-01/index.md
+
+      - "Chapters":
+          - "01. Introduction": volume-01/chapters/01-introduction.md
+          - "02. Concept of Capital": volume-01/chapters/02-concept-of-capital.md
+          - "03. Social Capital": volume-01/chapters/03-social-capital.md
+          - "04. Human Capital": volume-01/chapters/04-human-capital.md
+          - "05. Physical Capital": volume-01/chapters/05-physical-capital.md
+          - "06. Natural Capital": volume-01/chapters/06-natural-capital.md
+          - "07. Financial Capital": volume-01/chapters/07-financial-capital.md
+          - "08. Cultural Capital": volume-01/chapters/08-cultural-capital.md
+          - "09. Political Capital": volume-01/chapters/09-political-capital.md
+          - "10. Intellectual Capital": volume-01/chapters/10-intellectual-capital.md
+          - "11. Digital Capital": volume-01/chapters/11-digital-capital.md
+          - "12. Psychological Capital": volume-01/chapters/12-psychological-capital.md
+          - "13. Community Capital Development Index": volume-01/chapters/13-community-capital-development-index.md
+          - "14. Research Design and Indicators": volume-01/chapters/14-research-design-and-indicators.md
+          - "15. Implementation and Conclusion": volume-01/chapters/15-implementation-and-conclusion.md
+
+      - "References": volume-01/references.md
+
+  - "Volume II":
+      - Volume II Overview: volume-02/index.md
+
+      - "Household Capital Class Structures":
+          - "16. Household Socioeconomic Capital Framework": volume-02/chapters/16-household-socioeconomic-capital-framework.md
+          - "17. Poor Households": volume-02/chapters/17-poor-households.md
+          - "18. Lower-Middle-Class Households": volume-02/chapters/18-lower-middle-class-households.md
+          - "19. Middle-Class Households": volume-02/chapters/19-middle-class-households.md
+          - "20. Upper-Middle-Class Households": volume-02/chapters/20-upper-middle-class-households.md
+          - "21. Neo-Rich Households": volume-02/chapters/21-neo-rich-households.md
+          - "22. Elite Households": volume-02/chapters/22-elite-households.md
+
+      - "Comparative Analysis & Policy":
+          - "23. Comparative Household Capital Analysis": volume-02/chapters/23-comparative-household-capital-analysis.md
+          - "24. Household Capital Development Index": volume-02/chapters/24-household-capital-development-index.md
+          - "25. Policy Framework": volume-02/chapters/25-policy-framework.md
+
+      - "References": volume-02/references.md
+
+  - "Volume III":
+      - Volume III Overview: volume-03/index.md
+
+      - "Assessment Tools":
+          - volume-03/assessment-tools/overview.md
+      - "Questionnaires":
+          - volume-03/questionnaires/overview.md
+      - "Scoring Methodology":
+          - volume-03/scoring-methodology/overview.md
+      - "Implementation Guides":
+          - volume-03/implementation-guides/overview.md
+      - "Case Studies":
+          - volume-03/case-studies/overview.md
+
+      - "References": volume-03/references.md
+
+  - Appendices: appendices/overview.md
+  - Figures: figures/overview.md
+  - Tables: tables/overview.md
+
+  - Glossary: glossary.md
+  - Bibliography: bibliography.md
+  - Copyright: copyright.md
+  - Publication Roadmap: publication-roadmap.md

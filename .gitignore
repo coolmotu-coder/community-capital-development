@@ -1,0 +1,25 @@
+# MkDocs build output
+site/
+docs/assets/overrides/
+
+# Python
+.pycache/
+__pycache__/
+*.pyc
+*.pyo
+.eggs/
+*.egg-info/
+dist/
+build/
+venv/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
