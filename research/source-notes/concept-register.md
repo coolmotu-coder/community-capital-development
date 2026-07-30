@@ -1,0 +1,54 @@
+---
+description: "Concept register for the Community Capital Development Project — tracks major concepts, definitions, and their usage across chapters."
+---
+
+# Concept Register
+
+This register records major concepts used throughout the project, their origins, definitions, and chapter usage.
+
+---
+
+## Concepts
+
+| Concept Name | Origin | Foundational Publication | Working Definition | First Chapter | Later Chapters | Terminology Warnings | Relationship to Framework |
+|--------------|--------|-------------------------|-------------------|---------------|----------------|---------------------|--------------------------|
+| Community Capital | Anil Kumar Srivastava (original) | Chapter 1 | The stock of resources, relationships, capabilities, institutions, knowledge, infrastructure, cultural assets, and environmental resources that communities can mobilise for collective well-being and resilience | Ch. 1 | Ch. 1, Ch. 16, Ch. 17, Ch. 18, Ch. 19, Ch. 20, Ch. 21, Ch. 22, Ch. 23, Ch. 24, Ch. 25 | Not a standard academic term; project-specific | Core concept of the project |
+| Human Capital | Gary Becker, Theodore Schultz | Becker (1964); Schultz (1961) | Education, health, skills, and capabilities of individuals that determine productivity, well-being, and adaptability | Ch. 1 | Ch. 1, Ch. 4, Ch. 16, Ch. 17, Ch. 18, Ch. 19, Ch. 20, Ch. 22, Ch. 23, Ch. 24 | Distinct from human development; focuses on economic returns | One of 5 household capital dimensions in Ch. 16 |
+| Social Capital | Pierre Bourdieu, James Coleman, Robert Putnam | Bourdieu (1986); Coleman (1988); Putnam (1993) | Networks, trust, norms, and relationships within and between communities that enable collective action and mutual aid | Ch. 1 | Ch. 1, Ch. 3, Ch. 16, Ch. 17, Ch. 18, Ch. 19, Ch. 20, Ch. 22, Ch. 23, Ch. 24 | Often conflated with cultural capital; project distinguishes them | One of 5 household capital dimensions in Ch. 16 |
+| Physical Capital | Classical economics | Smith (1776); Marx (1867) | Infrastructure, buildings, roads, energy systems, housing, and productive assets that enable production and connectivity | Ch. 1 | Ch. 1, Ch. 5, Ch. 16, Ch. 17, Ch. 18, Ch. 19, Ch. 20, Ch. 22, Ch. 23, Ch. 24 | In household framework, includes housing quality and durable goods | One of 5 household capital dimensions in Ch. 16 |
+| Financial Capital | Classical economics | Smith (1776); Fisher (1930) | Savings, credit, insurance, remittances, and other monetary resources that provide liquidity and investment capacity | Ch. 1 | Ch. 1, Ch. 7, Ch. 16, Ch. 17, Ch. 18, Ch. 19, Ch. 20, Ch. 21, Ch. 22, Ch. 23, Ch. 24 | In household framework, includes income levels and asset holdings | One of 5 household capital dimensions in Ch. 16 |
+| Institutional Capital | Elinor Ostrom, Douglass North | Ostrom (1990); North (1990) | Governance structures, rule of law, civic participation, accountability, and access to services that determine resource allocation | Ch. 1 | Ch. 1, Ch. 9, Ch. 16, Ch. 17, Ch. 18, Ch. 19, Ch. 20, Ch. 22, Ch. 23, Ch. 24 | Project uses "institutional capital" rather than "political capital" for household framework | One of 5 household capital dimensions in Ch. 16 |
+| Household Capital Class | Anil Kumar Srivastava (original) | Chapter 16 | Classification of households based on cumulative endowments across multiple capital dimensions rather than single-axis measures | Ch. 16 | Ch. 16, Ch. 17, Ch. 18, Ch. 19, Ch. 20, Ch. 21, Ch. 22, Ch. 23, Ch. 24, Ch. 25 | Not an official government classification; analytical construct | Core classification of Volume II |
+| Poor Households | Anil Kumar Srivastava (original) | Chapter 17 | Households with the most constrained capital endowments across multiple dimensions, facing systemic limitations in accessing and accumulating capital | Ch. 17 | Ch. 17, Ch. 18, Ch. 19, Ch. 20, Ch. 21, Ch. 22, Ch. 23, Ch. 24, Ch. 25 | Distinct from poverty line households; multi-dimensional | First household category in Volume II |
+| Lower-Middle-Class Households | Anil Kumar Srivastava (original) | Chapter 18 | Households just above the poorest, with modest but relatively stable capital, vulnerable to economic shocks | Ch. 18 | Ch. 18, Ch. 19, Ch. 20, Ch. 21, Ch. 22, Ch. 23, Ch. 24, Ch. 25 | Distinct from middle-class; limited surplus for investment | Second household category |
+| Middle-Class Households | Anil Kumar Srivastava (original) | Chapter 19 | Households with substantive capital endowments across most dimensions, achieving economic security and social stability | Ch. 19 | Ch. 19, Ch. 20, Ch. 21, Ch. 22, Ch. 23, Ch. 24, Ch. 25 | Distinct from upper-middle-class; limited capital transformation capacity | Third household category |
+| Upper-Middle-Class Households | Anil Kumar Srivastava (original) | Chapter 20 | Households with considerable capital endowment, substantial financial resources, and capacity for capital transformation | Ch. 20 | Ch. 20, Ch. 21, Ch. 22, Ch. 23, Ch. 24, Ch. 25 | Proximity to elite; boundary mechanisms important | Fourth household category |
+| Neo-Rich Households | Anil Kumar Srivastava (original) | Chapter 21 | Households with relatively rapid capital accumulation, often within a single generation, distinctive deployment patterns | Ch. 21 | Ch. 21, Ch. 22, Ch. 23, Ch. 24, Ch. 25 | Distinct from elite; legitimacy concerns; pace of accumulation | Fifth household category |
+| Elite Households | Anil Kumar Srivastava (original) | Chapter 22 | Households at the uppermost tier, with substantial capital across all dimensions, significant power and influence | Ch. 22 | Ch. 22, Ch. 23, Ch. 24, Ch. 25 | Distinct from upper-middle-class; intergenerational reproduction | Sixth household category |
+| Household Capital Development Index (HCDI) | Anil Kumar Srivastava (original) | Chapter 24 | Composite measure aggregating household capital endowments across five dimensions into a single interpretable score | Ch. 24 | Ch. 24, Ch. 25 | Context-dependent thresholds; not a definitive well-being measure | Quantification tool for Volume II |
+| Capital Transformation | Bourdieu (adapted) | Bourdieu (1986) | The process by which households convert one form of capital into another (e.g., social capital into economic opportunities) | Ch. 1 | Ch. 1, Ch. 16, Ch. 20, Ch. 21, Ch. 22, Ch. 25 | Requires analytical attention; not always observable | Key mechanism in household mobility |
+| Intergenerational Transmission | Bourdieu, Becker (adapted) | Bourdieu (1986); Becker (1964) | The mechanisms through which capital is passed from one generation to the next (education investment, wealth transfer, network access) | Ch. 1 | Ch. 1, Ch. 16, Ch. 19, Ch. 22, Ch. 25 | Distinct from simple inheritance; includes cultural and social capital | Central to class reproduction |
+| Multidimensional Poverty | Alkire-Foster methodology | Alkire & Foster (2011) | Poverty measured across multiple deprivations simultaneously, not solely by income or consumption | Ch. 1 | Ch. 1, Ch. 17, Ch. 23 | Distinct from monetary poverty; uses Alkire-Foster method | Evidence base for Poor Households |
+| Capabilities Approach | Amartya Sen, Martha Nussbaum | Sen (1999); Nussbaum (2000) | Development as expansion of substantive freedoms people enjoy to lead lives they have reason to value | Ch. 1 | Ch. 1, Ch. 4, Ch. 16, Ch. 17, Ch. 19 | Distinct from human capital; focuses on ends not means | Theoretical foundation for framework |
+| Livelihoods Framework | DFID | DFID (1999) | Five types of capital (human, social, natural, physical, financial) that determine household vulnerability and resilience | Ch. 1 | Ch. 1, Ch. 16, Ch. 17, Ch. 23 | Project extends with institutional, cultural, digital, psychological capital | Complementary framework |
+| Social Mobility | Asher et al. (2024) | Asher, Novosad & Rafkin (2024) | The extent to which individuals move between economic positions relative to their parents' position | Ch. 22 | Ch. 18, Ch. 22, Ch. 23, Ch. 25 | India has low intergenerational mobility; caste and religion matter | Evidence for household category boundaries |
+| Wealth Inequality | World Inequality Lab | Bharti, Chancel, Piketty (2024) | The distribution of net wealth across the population, measured by share held by different percentiles | Ch. 20 | Ch. 20, Ch. 21, Ch. 22, Ch. 23, Ch. 24, Ch. 25 | India has extreme wealth concentration; top 1% holds 40.1% of wealth | Evidence for Elite and Upper-Middle-Class categories |
+
+---
+
+## Terminology Warnings
+
+1. **Household Capital Class vs. Official Classifications:** The six household categories (Poor, Lower-Middle-Class, Middle-Class, Upper-Middle-Class, Neo-Rich, Elite) are analytical constructs developed for this project. They do not correspond to official government classifications such as BPL/APL, economic status categories in NSSO surveys, or income brackets used by tax authorities.
+
+2. **Institutional Capital vs. Political Capital:** Volume I uses "political and institutional capital" as one of ten forms of community capital. Volume II's household framework uses "institutional capital" to refer specifically to access to services, legal recognition, and engagement with institutions. These are related but not identical concepts.
+
+3. **Human Capital vs. Human Development:** Human capital refers to the stock of skills, education, and health that individuals possess. Human development refers to the expansion of capabilities and freedoms. The project uses both concepts but keeps them distinct.
+
+4. **Wealth Quintiles in DHS/NFHS:** Wealth quintiles in DHS and NFHS surveys are relative measures constructed within each country using asset ownership data. They are not absolute income or consumption measures. A household in the "richest" quintile in one country may have fewer absolute assets than a household in the "poorest" quintile in a richer country.
+
+5. **Neo-Rich vs. Elite:** The distinction between Neo-Rich and Elite households is based on the trajectory and legitimacy of capital accumulation, not solely on the magnitude of capital. Elite households typically have multi-generational wealth, deep institutional entanglements, and established social legitimacy. Neo-Rich households have rapid recent accumulation but may lack the same depth of institutional and social capital.
+
+---
+
+*Register compiled: 2025-07-30*
+*Total concepts tracked: 19*
