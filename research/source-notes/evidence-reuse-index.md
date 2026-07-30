@@ -62,6 +62,12 @@ This index records all sources and statistics reused across chapters to prevent 
 | S48 | PIB PMJDY Coverage | Ch. 17 | Ch. 17, Ch. 23, Ch. 24, Ch. 25 | Yes | Official government data |
 | S49 | PIB PMAY-G Progress | Ch. 17 | Ch. 17, Ch. 25 | Yes | Official government data |
 | S50 | Census of India 2011 | Ch. 18 | Ch. 18, Ch. 23, Ch. 25 | Yes | 2011 data; may be outdated |
+| S51 | Flora & Flora 2008 Community Capitals Framework | Ch. V3-1 | Ch. V3-1, Ch. V3-2, Ch. V3-3, Ch. V3-4, Ch. V3-5 | Yes | Foundational framework for community capitals |
+| S52 | Emery & Flora 2006 Spiraling-Up | Ch. V3-1 | Ch. V3-1, Ch. V3-3 | Yes | Community transformation mapping methodology |
+| S53 | Grootaert & van Bastelaer 2000 SCAT | Ch. V3-1 | Ch. V3-1, Ch. V3-2 | Yes | Social capital assessment tool methodology |
+| S54 | NIRD&PR 2020 PRA Methodology | Ch. V3-1 | Ch. V3-1, Ch. V3-2, Ch. V3-4, Ch. V3-5 | Yes | PRA tools and techniques for Indian rural development |
+| S55 | FAO 1995 RRA/PRA Aquaculture | Ch. V3-1 | Ch. V3-1, Ch. V3-5 | Yes | Participatory rural appraisal in development practice |
+| S56 | ASER Centre 2024 | Ch. V3-1 | Ch. V3-1, Ch. V3-2 | Yes | Learning assessment methodology |
 
 ---
 
@@ -144,5 +150,5 @@ This index records all sources and statistics reused across chapters to prevent 
 ---
 
 *Index compiled: 2025-07-30*
-*Total sources tracked: 50*
+*Total sources tracked: 56*
 *Total statistics tracked: 60*
